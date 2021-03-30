@@ -45,7 +45,7 @@ var slides = document.querySelectorAll('.slide');
             return;
           }
           repeater();
-        }, 3000);
+        }, 4000);
         }
         repeater();
       }
